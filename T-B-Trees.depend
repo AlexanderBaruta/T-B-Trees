@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1543294775 source:d:\database-project\t-b-trees\main.cpp
+	<iostream>
+	"TTree.h"
+	<thread>
+	<queue>
+	<random>
+	<mutex>
+	<random>
+	<semaphore.h>
+	"ThreadedLogic.h"
+	<time.h>
+
+1543264002 d:\database-project\t-b-trees\include\ttree.h
+	"TNode.h"
+	<string>
+	<utility>
+	<vector>
+	<stack>
+	<queue>
+	<deque>
+	<condition_variable>
+	<semaphore.h>
+
+1543280128 source:d:\database-project\t-b-trees\src\ttree.cpp
+	"TTree.h"
+	"TNode.h"
+	<iostream>
+	<string>
+	<mutex>
+	<utility>
+	<condition_variable>
+	<semaphore.h>
+
+1542156902 source:d:\database-project\t-b-trees\src\btree.cpp
+	"BTree.h"
+
+1542156902 d:\database-project\t-b-trees\include\btree.h
+
+1543206280 source:d:\database-project\t-b-trees\src\threadedlogic.cpp
+	"ThreadedLogic.h"
+	<queue>
+
+1543204454 d:\database-project\t-b-trees\include\threadedlogic.h
+	<queue>
+	<string>
+	<tuple>
+	<map>
+	<mutex>
+	<random>
+
+1543264977 d:\database-project\t-b-trees\include\tnode.h
+	<map>
+	<mutex>
+	<shared_mutex>
+	<string>
+	<utility>
+	<condition_variable>
+	<semaphore.h>
+
+1543280133 source:d:\database-project\t-b-trees\src\tnode.cpp
+	"TNode.h"
+	"TTree.h"
+	<vector>
+	<shared_mutex>
+	<condition_variable>
+	<semaphore.h>
+	<utility>
+	<iostream>
+
+1542678359 source:d:\database-project\t-b-trees\src\command.cpp
+	"Command.h"
+
+1542678358 d:\database-project\t-b-trees\include\command.h
+
+1543001574 source:d:\database-project\t-b-trees\src\bnode.cpp
+	"BNode.h"
+
+1543001695 d:\database-project\t-b-trees\include\bnode.h
+
